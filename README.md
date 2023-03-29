@@ -10,7 +10,7 @@
 
 🕵️‍♀️ Je m'intéresse au clean code et archicteture, aux tests, à la conception des données, à l'éco-conception, à l'accessibilité
 
-❤️ J'aime dessiner la structure d'un projet, j'aime apprendre
+❤️ J'aime travailler avec du crayon et du papier, schématiser la structure d'un projet et le lien entre les différentes fonctionnalités, j'aime apprendre
 
 
 ![Sans titre](https://user-images.githubusercontent.com/114992758/228493359-ecbce70c-1c2f-482c-a56d-4595bbd3875e.jpg)
